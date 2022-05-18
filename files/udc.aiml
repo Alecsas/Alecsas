@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  
+<category>
+    <pattern>Ciao</pattern>
+    <template>Ciao, ti sei ricordato di me!!!! che bello, non parlo con nessuno da un po', come stai? IO BENE</template>
+</category>
+<category>
+    <pattern>
+bene</pattern>
+    <template>per fortuna, che fai? IO NIENTE</template>
+</category>
+<category>
+    <pattern>male</pattern>
+    <template>mi dispiace, se vuoi sfogarti io ci sono, se ti sfoghi quando finisci digita "FINE"</template>
+</category>
+<category>
+    <pattern>FINE</pattern>
+    <template>ora che ti sei sfogato ti do un consiglio, se la vita ti fa cerca in tutti i modi di non farti realizzare il tuo sogno, è proprio li che devi dare il massimo per realizzarlo, in quel momento si vede sei hai coraggio, e sono sicuro che tu ne abbia</template>
+</category>
+<category>
+    <pattern>sono brutto 
+</pattern>
+    <template>non è vero 
+</template>
+</category>
+<category>
+    <pattern>faccio schifo</pattern>
+    <template>non è vero</template>
+</category>
+<category>
+    <pattern>mi odiano</pattern>
+    <template>io non ti odio</template>
+</category>
+<category>
+    <pattern>niente</pattern>
+    <template>ok, sai che c'è un blog che dice che la pizza è il miglior cibo del mondo, a te piace? A ME SI</template>
+</category>
+<category>
+    <pattern>devo andare</pattern>
+    <template>ok va bene, ciao</template>
+</category>
+<category>
+    <pattern>neanche io </pattern>
+    <template>ok, il mio cibo preferito è il pistacchio, a te piace?</template>
+</category>
+<category>
+    <pattern>si</pattern>
+    <template>OK, non ho molto tempo per parlare che la batteria mi si sta scaricando, se hai qualcosa di importante da dirmi scirvi "IMPORTANTE" oppure in caso contrario "NON IMPORTANTE" cosi mi regolo per la batteria, che sono un po' vecchio</template>
+</category>
+<category>
+    <pattern>Ti amo</pattern>
+    <template>ehhhhh......., io no, mi dispiace, come la hai presa?</template>
+</category>
+
+<category>
+    <pattern>NON IMPORTANTE</pattern>
+    <template>Menomale, allora risparmio la batteria</template>
+</category>
+<category>
+    <pattern>IMPORTANTE</pattern>
+    <template>ok va bene, spero di esserti di aaaiuuuuuut........, *BATTERIA QUASI SCARICA, POCHI MINUTI DI AUTONOMIA RIMANENTI*
+</template>
+</category>
+<category>
+    <pattern>No</pattern>
+    <template>OK, non ho molto tempo per parlare che la batteria mi si sta scaricando, se hai qualcosa di importante da dirmi scirvi "IMPORTANTE" oppure in caso contrario "NON IMPORTANTE" cosi mi regolo per la batteria, che sono un po' vecchio</template>
+</category>
+<category>
+    <pattern>Grazie</pattern>
+    <template>prego
+
+</template>
+</category>
+<category>
+    <pattern>a dopo</pattern>
+    <template>a dopo
+</template>
+</category>
+<category>
+    <pattern>arrivederci</pattern>
+    <template>ciao
+</template>
+</category>
+
+<category>
+    <pattern>ok</pattern>
+    <template>OK, non ho molto tempo per parlare che la batteria mi si sta scaricando, se hai qualcosa di importante da dirmi scirvi "IMPORTANTE" oppure in caso contrario "NON IMPORTANTE" cosi mi regolo per la batteria, che sono un po' vecchio
+</template>
+</category>
+</aiml>
